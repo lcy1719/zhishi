@@ -1,11 +1,3 @@
-> **代码包运行启动成功！不管你有没有运行环境，哪怕你是刚买的新电脑，也包启动运行成功！有不懂的地方随便问！问到会为止！**
-> 
-> **源码图片效果在下面，滑动滑轮观看效果！！！！**
-## 源码获取（4.9米）：
-![微信图片_20241218164848](https://github.com/user-attachments/assets/86680ed8-ef33-48a8-8a9f-88f11065e250)
-
-> **大家点赞、收藏、关注、评论区留言、点我主页或者私聊我获取代码**
-
 ## 【功能介绍】
 本系统包含学生、教师、管理员三个角色。学生角色:
 1.注册、登录功能:学生可以通过系统完成注册和登录操作，进入学生专属界面。
@@ -29,6 +21,9 @@
 ②：系统环境：Windows
 ③：开发环境：IDEA、JDK1.8、Maven、MySQL、node
 ④：技术栈：Java、MySQL、SpringBoot、Mybatis、Vue
+> **代码+数据库+有的送报告文档具体扫码询问=4.9元；提供有偿远程调试，29包启动成功！不管你有没有运行环境，哪怕你是刚买的新电脑，也包启动运行成功！提供有偿讲解，有不懂的地方随便问！问到会为止！**
+## 源码获取（代码截图、功能效果截图在下面）：
+![微信图片_20241218164848](https://github.com/user-attachments/assets/646b2784-afb8-47ee-a4d4-5ccc9f96b331)
 ![image](https://github.com/user-attachments/assets/05337489-0ba6-4629-9b2e-820bdce274b5)
 ![image](https://github.com/user-attachments/assets/1fe2dc82-1dd4-40a6-8be7-3247e621cea8)
 ![image](https://github.com/user-attachments/assets/7eb2b389-9ac3-4f88-b91d-f047b662daa5)
